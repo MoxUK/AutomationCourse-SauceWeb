@@ -1,5 +1,5 @@
 package com.blinou.saucedemo.gui.constants
-
+//..edit
 /**
  * SwagDemo GUI Test Automation Project
  * Author: Artyom Blinov
