@@ -1,4 +1,4 @@
-package com.blinou.saucedemo.gui.common.pages
+package com.blinou.saucedemo.web.common.pages
 
 import com.zebrunner.carina.webdriver.decorator.ExtendedWebElement
 import com.zebrunner.carina.webdriver.decorator.PageOpeningStrategy

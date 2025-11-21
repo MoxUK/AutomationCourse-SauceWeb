@@ -1,7 +1,7 @@
-package com.blinou.saucedemo.gui.common.pages
+package com.blinou.saucedemo.web.common.pages
 
-import com.blinou.saucedemo.gui.common.pages.component.Header
-import com.blinou.saucedemo.gui.common.pages.component.ProductCard
+import com.blinou.saucedemo.web.common.pages.component.Header
+import com.blinou.saucedemo.web.common.pages.component.ProductCard
 import com.zebrunner.carina.webdriver.decorator.ExtendedWebElement
 import com.zebrunner.carina.webdriver.decorator.PageOpeningStrategy
 import com.zebrunner.carina.webdriver.gui.AbstractPage

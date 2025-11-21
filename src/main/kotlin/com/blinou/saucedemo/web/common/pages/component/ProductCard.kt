@@ -1,4 +1,4 @@
-package com.blinou.saucedemo.gui.common.pages.component
+package com.blinou.saucedemo.web.common.pages.component
 
 import com.zebrunner.carina.webdriver.decorator.ExtendedWebElement
 import com.zebrunner.carina.webdriver.gui.AbstractUIObject

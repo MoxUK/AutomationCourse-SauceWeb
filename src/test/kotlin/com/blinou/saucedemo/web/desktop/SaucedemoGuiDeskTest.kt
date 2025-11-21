@@ -2,20 +2,20 @@
  *
  */
 
-package com.blinou.saucedemo.gui.desktop
+package com.blinou.saucedemo.web.desktop
 
-import com.blinou.saucedemo.gui.common.pages.LoginPage
-import com.blinou.saucedemo.gui.common.pages.ProductsPage
-import com.blinou.saucedemo.gui.constants.GuiConstants.EXPECTED_ERROR_MESSAGE
-import com.blinou.saucedemo.gui.constants.GuiConstants.LOCKED_OUT_USERNAME
+import com.blinou.saucedemo.web.common.pages.LoginPage
+import com.blinou.saucedemo.web.common.pages.ProductsPage
+import com.blinou.saucedemo.web.constants.GuiConstants.EXPECTED_ERROR_MESSAGE
+import com.blinou.saucedemo.web.constants.GuiConstants.LOCKED_OUT_USERNAME
 //import com.blinou.saucedemo.gui.common.pages.ProductsPage
 import com.zebrunner.agent.core.annotation.TestLabel
 import com.zebrunner.carina.core.IAbstractTest
 import com.zebrunner.carina.core.registrar.ownership.MethodOwner
 import org.testng.Assert
 import org.testng.annotations.Test
-import com.blinou.saucedemo.gui.constants.GuiConstants.PASSWORD
-import com.blinou.saucedemo.gui.constants.GuiConstants.STANDARD_USERNAME
+import com.blinou.saucedemo.web.constants.GuiConstants.PASSWORD
+import com.blinou.saucedemo.web.constants.GuiConstants.STANDARD_USERNAME
 //import com.blinou.saucedemo.gui.constants.RegexConstants.NON_EMPTY_STRING_PATTERN
 //import com.blinou.saucedemo.gui.constants.RegexConstants.PRICE_PATTERN
 

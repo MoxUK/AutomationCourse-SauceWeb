@@ -1,6 +1,6 @@
-package com.blinou.saucedemo.gui.common.pages.component
+package com.blinou.saucedemo.web.common.pages.component
 
-import com.blinou.saucedemo.gui.common.pages.CardPage
+import com.blinou.saucedemo.web.common.pages.CardPage
 import com.zebrunner.carina.webdriver.decorator.ExtendedWebElement
 import com.zebrunner.carina.webdriver.gui.AbstractUIObject
 import org.openqa.selenium.SearchContext

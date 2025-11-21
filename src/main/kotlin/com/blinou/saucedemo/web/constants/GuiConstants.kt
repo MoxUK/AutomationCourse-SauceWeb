@@ -1,4 +1,4 @@
-package com.blinou.saucedemo.gui.constants
+package com.blinou.saucedemo.web.constants
 //..edit
 /**
  * SwagDemo GUI Test Automation Project
